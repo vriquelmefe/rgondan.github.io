@@ -1,0 +1,16 @@
+body{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1F1F1F;
+    color: #9CDCFE;
+}
+h1{
+    color: #CE9178;
+    font-size: 40;
+}
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: #729E2E;
+}
